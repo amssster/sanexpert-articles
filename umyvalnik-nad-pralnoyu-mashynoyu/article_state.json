@@ -1,0 +1,29 @@
+{
+  "article": "umyvalnik-nad-pralnoyu-mashynoyu",
+  "created": "2026-09-11",
+  "status": "QA_PASSED",
+  "qa_score": "23/23 checks green, threshold 90% exceeded",
+  "qa_details": {
+    "html_css": "10/10 (no h1, no style, no script, sxp wrapper, no inline styles)",
+    "content": "7/7 (no prices, no forbidden words, ви-form, no stock claims)",
+    "seo": "5/5 (title 53 chars, description 145 chars, slug ok, 11 internal links, FAQ 4)",
+    "products": "3/3 (8 cards = 4 умивальники Asignatura + 4 сифони Alcaplast, all segments labeled)",
+    "links": "3/3 (all 11 unique internal URLs verified HTTP 200 on 11.09.2026)"
+  },
+  "artifacts": {
+    "html": "/opt/data/pipeline/article2-umyvalnik-nad-pralnoyu-mashynoyu-ua.html",
+    "meta": "/opt/data/pipeline/meta-umyvalnik-nad-pralnoyu-mashynoyu.json",
+    "data_pack": "/opt/data/pipeline/article2-data-pack.json",
+    "raw_specs": "/opt/data/radar/article2_batch1.json",
+    "images": "/opt/data/radar/article2_imgs.json"
+  },
+  "word_count": 1122,
+  "type": "spoke",
+  "note": "2 з 8 товарних карток (A410P, A43P) без img — зображення за Horoshop challenge не отримані; картки рендеряться коректно без img (текст + лінк). За бажанням можна додати og:image пізніше через cf_content.",
+  "next_steps": [
+    "1. Редагувати/погодити чернетку",
+    "2. Публікація в Horoshop (admin UI або catalog/import з names[page]=1250 СТАТТІ) — лише після явного дозволу",
+    "3. Після публікації: перелінковка з /umyvalniki-podvesnye/ (SEO-текст категорії) — таск із SEO_Analysis_2026-09-11",
+    "4. RU-версія після успіху UA"
+  ]
+}
