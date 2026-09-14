@@ -1,0 +1,28 @@
+{
+  "slug": "radiatory-dlya-teplovogo-nasosa",
+  "language_master": "ua",
+  "status": "READY_FOR_HOROSHOP_HANDOFF",
+  "artifacts": {
+    "html_ua": "article-radiators-heat-pump-ua.html",
+    "meta_json": "meta-radiators-heat-pump.json",
+    "fact_check": "fact-check-radiators-heat-pump.json",
+    "art_plan": "art-plan-radiators-heat-pump.json",
+    "social_copy": "social-copy-ua.md",
+    "sources_and_fact_notes": "sources-and-fact-notes.md"
+  },
+  "publication": {
+    "approved": false,
+    "writer": "horoshop",
+    "note": "No Horoshop production write performed by content agent."
+  },
+  "ru_version": {
+    "status": "NOT_CREATED",
+    "reason": "Create only after UA approval and publication."
+  },
+  "article": "radiatory-dlya-teplovogo-nasosa",
+  "word_count": 1812,
+  "h2_sections": 12,
+  "hero": "radiatory-dlya-teplovogo-nasosa-hero.jpg",
+  "source_package": "radiators-heat-pump-2026-09",
+  "published_to_github": "https://amssster.github.io/sanexpert-articles/radiatory-dlya-teplovogo-nasosa/"
+}

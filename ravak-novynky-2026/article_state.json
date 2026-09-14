@@ -1,0 +1,29 @@
+{
+  "task_id": "t_ae9123e4",
+  "topic": "Новинки Ravak 2026 — iMagin, ARC, Varia Crystal, Ypsilon RimOff",
+  "status": "DRAFT_READY_FOR_EDITORIAL_REVIEW",
+  "language": "ua",
+  "article_type": "spoke",
+  "artifacts": {
+    "draft_ua": "article-ravak-novynky-2026-ua.html",
+    "meta": "meta-ravak-novynky-2026.json",
+    "sources": "sources-and-fact-notes.md",
+    "social": "social-copy-ua.md"
+  },
+  "qa_checks": {
+    "no_h1_in_body": true,
+    "sxp_prefix_only": true,
+    "no_inline_styles": true,
+    "no_forbidden_words": true,
+    "valid_brand_links": true,
+    "title_length_valid": true,
+    "description_length_valid": true
+  },
+  "next_stage": "editorial_review_then_html_publisher",
+  "article": "ravak-novynky-2026",
+  "word_count": 1151,
+  "h2_sections": 11,
+  "hero": "ravak-novynky-2026-hero.jpg",
+  "source_package": "ravak-novynky-2026",
+  "published_to_github": "https://amssster.github.io/sanexpert-articles/ravak-novynky-2026/"
+}
