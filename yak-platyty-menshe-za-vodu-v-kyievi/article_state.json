@@ -1,0 +1,27 @@
+{
+  "slug": "yak-platyty-menshe-za-vodu-v-kyievi",
+  "language_master": "ua",
+  "status": "READY_FOR_HOROSHOP_HANDOFF",
+  "artifacts": {
+    "html_ua": "article-kyiv-water-saving-ua.html",
+    "meta_json": "meta-kyiv-water-saving.json",
+    "fact_check": "fact-check-kyiv-water-saving.json",
+    "art_plan": "art-plan-kyiv-water-saving.json",
+    "social_copy": "social-copy-ua.md"
+  },
+  "publication": {
+    "approved": false,
+    "writer": "horoshop",
+    "note": "No Horoshop production write performed by content agent."
+  },
+  "ru_version": {
+    "status": "NOT_CREATED",
+    "reason": "Create only after UA approval and publication."
+  },
+  "article": "yak-platyty-menshe-za-vodu-v-kyievi",
+  "word_count": 1418,
+  "h2_sections": 8,
+  "hero": "kyiv-water-saving-2026-09-hero.jpg",
+  "source_package": "kyiv-water-saving-2026-09",
+  "published_to_github": "https://amssster.github.io/sanexpert-articles/yak-platyty-menshe-za-vodu-v-kyievi/"
+}

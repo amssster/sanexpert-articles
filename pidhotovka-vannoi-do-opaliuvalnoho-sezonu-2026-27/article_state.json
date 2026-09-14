@@ -1,0 +1,26 @@
+{
+  "task_id": "t_e19db13d",
+  "topic": "Опалювальний сезон 2026/27 — підготовка ванної до зими",
+  "status": "DRAFT_READY_FOR_EDITORIAL_REVIEW",
+  "language": "ua",
+  "article_type": "spoke",
+  "artifacts": {
+    "draft_ua": "article-pidhotovka-vannoi-do-zymy-2026-27-ua.html",
+    "meta": "meta-pidhotovka-vannoi-do-zymy-2026-27.json",
+    "sources": "sources-and-fact-notes.md",
+    "social": "social-copy-ua.md"
+  },
+  "known_constraints": [
+    "Не заявляти загальнонаціональний старт опалення 15 вересня.",
+    "У публічному тексті не прогнозувати перебоїв або зміну тарифів.",
+    "У статті використано лише чинні на 14.09.2026 внутрішньо верифіковані цифри тарифів; перед публікацією потрібна повторна факт-перевірка.",
+    "RU-версію готувати тільки після UA-редакторського схвалення."
+  ],
+  "next_stage": "editorial_review_then_html_publisher",
+  "article": "pidhotovka-vannoi-do-opaliuvalnoho-sezonu-2026-27",
+  "word_count": 1021,
+  "h2_sections": 10,
+  "hero": "pidhotovka-vannoi-do-zymy-2026-27-hero.jpg",
+  "source_package": "pidhotovka-vannoi-do-zymy-2026-27",
+  "published_to_github": "https://amssster.github.io/sanexpert-articles/pidhotovka-vannoi-do-opaliuvalnoho-sezonu-2026-27/"
+}
