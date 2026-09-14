@@ -1,0 +1,31 @@
+{
+  "slug": "soulful-sage-2027",
+  "language_master": "ua",
+  "status": "READY_FOR_HOROSHOP_HANDOFF",
+  "article_type": "spoke",
+  "artifacts": {
+    "html_ua": "article-soulful-sage-2027-ua.html",
+    "meta_json": "meta-soulful-sage-2027.json",
+    "fact_check": "fact-check-soulful-sage-2027.json",
+    "art_plan": "art-plan-soulful-sage-2027.json",
+    "sources": "sources-and-fact-notes.md",
+    "social_copy": "social-copy-ua.md",
+    "hero_image": "soulful-sage-2027-hero.jpg",
+    "generation_prompts": "soulful-sage-2027-generation-prompts.md"
+  },
+  "publication": {
+    "approved": false,
+    "writer": "horoshop",
+    "note": "No Horoshop production write performed by content agent."
+  },
+  "ru_version": {
+    "status": "NOT_CREATED",
+    "reason": "Create only after UA approval and publication."
+  },
+  "article": "soulful-sage-2027",
+  "word_count": 1040,
+  "h2_sections": 9,
+  "hero": "soulful-sage-2027-hero.jpg",
+  "source_package": "soulful-sage-2027",
+  "published_to_github": "https://amssster.github.io/sanexpert-articles/soulful-sage-2027/"
+}
