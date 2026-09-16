@@ -34,6 +34,16 @@ li { margin: 4px 0; }
   .sxp-product-img { width:100%; height:auto; }
   table { font-size:.85em; }
 }
+  /* P0-A: prose measure — readable line length (~65-75ch) */
+  .sxp p, .sxp ul, .sxp ol, .sxp h2, .sxp h3, .sxp h4 {
+    max-width: 72ch; margin-inline: auto;
+  }
+  /* P0-E: hero img styles */
+  .sxp-hero-img {
+    display: block; width: 100%; height: auto;
+    border-radius: 6px; margin-bottom: 18px; max-width: 600px;
+    margin-inline: auto;
+  }
 </style>
 </head>
 <body>
@@ -42,7 +52,7 @@ li { margin: 4px 0; }
 
 <main>
 <a href="../" style="display:inline-block;margin-bottom:14px;font-size:.9em;">← до реєстру</a>
-<img src="grohe-lineare-novi-kolory-2026-hero.jpg" alt="" style="width:100%;height:auto;border-radius:6px;margin-bottom:18px;">
+<img class="sxp-hero-img" src="grohe-lineare-novi-kolory-2026-hero.jpg" alt="Grohe Lineare — бачки в новых цветах 2026" >
 <article class="sxp sxp--article">
 <article class="sxp sxp--article">
   <h2>GROHE Lineare: еволюція мінімалізму та нові металеві відтінки</h2>
