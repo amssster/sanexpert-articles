@@ -1,0 +1,18 @@
+{
+  "slug": "zhovtneva-aktsiia-miraggio-znyzhky-do-30-2026",
+  "language_master": "ua",
+  "status": "READY_FOR_HOROSHOP_HANDOFF",
+  "article_type": "news_promo",
+  "publication": {
+    "approved": true,
+    "approval_source": "Explicit user request: Сделай новость в блоге",
+    "published": false
+  },
+  "artifacts": {
+    "html_ua": "article-ua.html",
+    "html_ru": "article-ru.html",
+    "meta_json": "meta.json",
+    "source_facts": "source-facts.md",
+    "hero": "miraggio-october-2026-hero.jpg"
+  }
+}
